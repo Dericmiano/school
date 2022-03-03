@@ -1,0 +1,29 @@
+.App {
+  font-family: "Playfair Display", Arial, sans-serif;
+}
+
+main{
+  min-height: 80vh;
+}
+.carousel-caption {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.carousel-caption h5{
+  color: #fff;
+}
+
+h5{
+  position: center;
+  align-content: center;
+
+}
+h3{
+  padding: 1rem 0;
+}
+.mid{
+  color: white;
+}
